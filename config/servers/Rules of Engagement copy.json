@@ -1,13 +1,13 @@
 {
-    "id": 690916074773938236,
-    "name": "Call of Duty",
-    "log_channel": 1470255856833663091,
+    "id": 1465120969034301511,
+    "name": "Rules of Engagement",
+    "log_channel": 1465121453694517301,
     "creators": [
         {
             "general": {
                 "name": "➕  Kanal erstellen",
-                "channel": 1470255851381199012,
-                "category": 1470255583885263101
+                "channel": 1465121435604353135,
+                "category": 1465121230016352388
             },
             "default": {
                 "channel_name": "{}'s Channel",
@@ -16,10 +16,10 @@
             },
             "role": {
                 "cannot_be_kicked": [
-                    1470255502809235568
+                    1465121150974562335
                 ],
                 "has_channel_owner_permissions": [
-                    1470255502809235568
+                    1465121150974562335
                 ]
             }
         }
