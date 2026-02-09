@@ -1,0 +1,30 @@
+{
+    "id": 1410332869913739326,
+    "name": "Gentlemens",
+    "log_channel": 1411125328868409444,
+    "creators": [
+        {
+            "general": {
+                "name": "Warteraum",
+                "channel": 1411125833493385350,
+                "category": 1411751817842524241
+            },
+            "default": {
+                "channel_name": "Warteraum",
+                "channel_size": 1,
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Voice-Erstellen",
+                "channel": 1411126601000681482,
+                "category": 1411127522388611194
+            },
+            "default": {
+                "channel_name": "Sprachkanal",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

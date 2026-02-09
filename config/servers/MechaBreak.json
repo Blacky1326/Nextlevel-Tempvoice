@@ -1,0 +1,43 @@
+{
+    "id": 1327026998534737952,
+    "name": "MechaBreak",
+    "log_channel": 1366515260206354552,
+    "creators": [
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1343772258665238608,
+                "category": 1327027515793084517
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "channel_size": 5,
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked PC",
+                "channel": 1343772353926135889,
+                "category": 1327027517240115202
+            },
+            "default": {
+                "channel_name": "{}'s Ranked PC",
+                "channel_size": 5,
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole",
+                "channel": 1343772396481544234,
+                "category": 1327027519064637584
+            },
+            "default": {
+                "channel_name": "{}'s Ranked Konsole",
+                "channel_size": 5,
+                "copy_permissions": true
+            }
+        }
+    ]
+}

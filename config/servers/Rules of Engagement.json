@@ -1,0 +1,27 @@
+{
+    "id": 1465120969034301511,
+    "name": "Rules of Engagement",
+    "log_channel": 1465121453694517301,
+    "creators": [
+        {
+            "general": {
+                "name": "➕  Kanal erstellen",
+                "channel": 1465121435604353135,
+                "category": 1465121230016352388
+            },
+            "default": {
+                "channel_name": "{}'s Channel",
+                "channel_size": 4,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1465121150974562335
+                ],
+                "has_channel_owner_permissions": [
+                    1465121150974562335
+                ]
+            }
+        }
+    ]
+}

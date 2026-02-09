@@ -1,0 +1,95 @@
+{
+    "id": 1325249120918704168,
+    "name": "Fragpunk",
+    "log_channel": 1366493952051642409,
+    "creators": [
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1366534313314877550,
+                "category": 1325249121883263017
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1366522218787373238
+                ],
+                "has_channel_owner_permissions": [
+                    1325249120985813016,
+                    1325249120985813015,
+                    1359627937845874758
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked PC",
+                "channel": 1366534377600843838,
+                "category": 1325249121883263019
+            },
+            "default": {
+                "channel_name": "{}'s Ranked PC",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1366522218787373238
+                ],
+                "has_channel_owner_permissions": [
+                    1325249120985813016,
+                    1325249120985813015,
+                    1359627937845874758
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole PS",
+                "channel": 1366534419153813655,
+                "category": 1325249121883263021
+            },
+            "default": {
+                "channel_name": "{}'s PS Ranked",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1366522218787373238
+                ],
+                "has_channel_owner_permissions": [
+                    1325249120985813016,
+                    1325249120985813015,
+                    1359627937845874758
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole XBOX",
+                "channel": 1367826702834864138,
+                "category": 1367827788152705054
+            },
+            "default": {
+                "channel_name": "{}'s XBOX Ranked",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1366522218787373238
+                ],
+                "has_channel_owner_permissions": [
+                    1325249120985813016,
+                    1325249120985813015,
+                    1359627937845874758
+                ]
+            }
+        }
+    ]
+}

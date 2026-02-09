@@ -1,0 +1,28 @@
+{
+    "id": 1375258164425003150,
+    "name": "Splitgate 2",
+    "log_channel": 1375258724930945044,
+    "creators": [
+        {
+            "general": {
+                "name": "Creator 1",
+                "channel": 1375258682526404664,
+                "category": 1375258666990571611
+            },
+            "default": {
+                "channel_name": "{}'s Kanal",
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1376134230207103036
+                ],
+                "has_channel_owner_permissions": [
+                    1375258615421734942,
+                    1375258616591814656,
+                    1375258617497784462
+                ]
+            }
+        }
+    ]
+}

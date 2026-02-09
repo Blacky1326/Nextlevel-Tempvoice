@@ -1,0 +1,51 @@
+{
+    "id": 1375478289711370320,
+    "name": "Jump Ship",
+    "log_channel": 1375478753165185136,
+    "creators": [
+        {
+            "general": {
+                "name": "PC",
+                "channel": 1375478718935466064,
+                "category": 1375478703659941908
+            },
+            "default": {
+                "channel_name": "{}'s PC",
+                "channel_size": 4,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1375517353583841471
+                ],
+                "has_channel_owner_permissions": [
+                    1375478646055243980,
+                    1375478647728640161,
+                    1375478649117081660
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Konsole",
+                "channel": 1375478722433650749,
+                "category": 1375478704863580230
+            },
+            "default": {
+                "channel_name": "{}'s Konsole",
+                "channel_size": 4,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1375517353583841471
+                ],
+                "has_channel_owner_permissions": [
+                    1375478646055243980,
+                    1375478647728640161,
+                    1375478649117081660
+                ]
+            }
+        }
+    ]
+}

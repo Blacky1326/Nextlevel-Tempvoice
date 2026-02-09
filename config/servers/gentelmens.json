@@ -1,0 +1,29 @@
+{
+    "id": 1163509039058137158,
+    "name": "Gentlemens",
+    "log_channel": 1387578335709761687,
+    "creators": [
+        {
+            "general": {
+                "name": "Gentlemens-Voice",
+                "channel": 1387578471773110375,
+                "category": 1387579282666291360
+            },
+            "default": {
+                "channel_name": "Gentlemens-Voice",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Gentlemens-Gaming",
+                "channel": 1387578545005531276,
+                "category": 1387579338177904710
+            },
+            "default": {
+                "channel_name": "Gentlemens-Gaming",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

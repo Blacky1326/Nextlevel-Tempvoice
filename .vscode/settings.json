@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "pylint.args": [
+    "--disable=missing-module-docstring",
+    "--disable=missing-class-docstring",
+    "--disable=missing-function-docstring",
+    "--disable=relative-beyond-top-level"
+  ]
+}

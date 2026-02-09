@@ -1,0 +1,26 @@
+{
+    "id": 1367322176348229755,
+    "name": "discord.timo.software",
+    "log_channel": 1367820110332690442,
+    "creators": [
+        {
+            "general": {
+                "name": "main",
+                "channel": 1367819046623641600,
+                "category": 1367322176977633323
+            },
+            "default": {
+                "channel_name": "{}",
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1367819717192060928
+                ],
+                "has_channel_owner_permissions": [
+                    1367777932709199883
+                ]
+            }
+        }
+    ]
+}

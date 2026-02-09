@@ -1,0 +1,47 @@
+{
+    "id": 1133932796461711390,
+    "name": "OmeGang Discord",
+    "log_channel": 1395540299908120637,
+    "creators": [
+        {
+            "general": {
+                "name": "Ome-Talk",
+                "channel": 1133936345337843853,
+                "category": 1395541655477686344
+            },
+            "default": {
+                "channel_name": "{}'s Ome-Talk",
+                "channel_size": 10,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1133932948207444069
+                ],
+                "has_channel_owner_permissions": [
+                    1133932948207444069
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Ome-Live",
+                "channel": 1395545001060204584,
+                "category": 1135379570422460547
+            },
+            "default": {
+                "channel_name": "{}'s Ome-Live",
+                "channel_size": 10,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1133932948207444069
+                ],
+                "has_channel_owner_permissions": [
+                    1133932948207444069
+                ]
+            }
+        }
+    ]
+}

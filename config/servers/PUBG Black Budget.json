@@ -1,0 +1,27 @@
+{
+    "id": 1374516495190851654,
+    "name": "Black Budget",
+    "log_channel": 1374516841656881364,
+    "creators": [
+        {
+            "general": {
+                "name": "➕  Kanal erstellen",
+                "channel": 1374516808597635162,
+                "category": 1374516787965722724
+            },
+            "default": {
+                "channel_name": "{}'s Channel",
+                "channel_size": 3,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1449490258289754265
+                ],
+                "has_channel_owner_permissions": [
+                    1449490258289754265
+                ]
+            }
+        }
+    ]
+}

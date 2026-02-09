@@ -1,0 +1,27 @@
+{
+    "id": 1466251288714019000,
+    "name": "The Midnight",
+    "log_channel": 1466251977263681606,
+    "creators": [
+        {
+            "general": {
+                "name": "➕  Kanal erstellen",
+                "channel": 1466251953284579542,
+                "category": 1466251752482279606
+            },
+            "default": {
+                "channel_name": "{}'s Channel",
+                "channel_size": 4,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1466251667296227470
+                ],
+                "has_channel_owner_permissions": [
+                    1466251667296227470
+                ]
+            }
+        }
+    ]
+}

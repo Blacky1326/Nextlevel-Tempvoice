@@ -1,0 +1,27 @@
+{
+    "id": 1469608780621807670,
+    "name": "Wardogs",
+    "log_channel": 1469610207469375489,
+    "creators": [
+        {
+            "general": {
+                "name": "➕  Kanal erstellen",
+                "channel": 1469610183255916689,
+                "category": 1469609981967073424
+            },
+            "default": {
+                "channel_name": "{}'s Channel",
+                "channel_size": 3,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1469609898408149178
+                ],
+                "has_channel_owner_permissions": [
+                    1469609898408149178
+                ]
+            }
+        }
+    ]
+}

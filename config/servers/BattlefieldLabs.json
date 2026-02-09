@@ -1,0 +1,40 @@
+{
+    "id": 1328517357550698576,
+    "name": "BattlefieldLabs",
+    "log_channel": 11366515584556073051,
+    "creators": [
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1336289442817638422,
+                "category": 1336289433066143844
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked PC",
+                "channel": 1336289447028985896,
+                "category": 1336289434244485180
+            },
+            "default": {
+                "channel_name": "{}'s Ranked PC",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole",
+                "channel": 1336289447821447209,
+                "category": 1336289435519815723
+            },
+            "default": {
+                "channel_name": "{}'s Ranked Konsole",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 1366156425272889468,
+    "name": "Warborne Above Ashes",
+    "log_channel": 1366454240393826406,
+    "creators": [
+        {
+            "general": {
+                "name": "Voice-Dungeon",
+                "channel": 1366158818597277878,
+                "category": 1366158813539078235
+            },
+            "default": {
+                "channel_name": "{}'s Dungeon",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Voice-PVP",
+                "channel": 1366158821868699931,
+                "category": 1366158815149691023
+            },
+            "default": {
+                "channel_name": "{}'s PVP",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Voice-Farming",
+                "channel": 1366158825794834522,
+                "category": 1366158816504451254
+            },
+            "default": {
+                "channel_name": "{}'s Farming",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

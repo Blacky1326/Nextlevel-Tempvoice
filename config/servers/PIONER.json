@@ -1,0 +1,39 @@
+{
+    "id": 1374119917254869096,
+    "name": "Pinonier",
+    "log_channel": 1374122053455839283,
+    "creators": [
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1374122010069831780,
+                "category": 1374121993485422723
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked PC",
+                "channel": 1374122011516735488,
+                "category": 1374121995091968051
+            },
+            "default": {
+                "channel_name": "{}'s Ranked"
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole",
+                "channel": 1374122013937111181,
+                "category": 1374121997600165930
+            },
+            "default": {
+                "channel_name": "{}'s Ranked",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 1296495299870720033,
+    "name": "Bot Testing",
+    "log_channel": 1366127044009791589,
+    "creators": [
+        {
+            "general": {
+                "name": "Ranked",
+                "channel": 1363465167152615445,
+                "category": 1363464962592342217
+            },
+            "default": {
+                "channel_name": "{}'s Ranked",
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1366520447616680007
+                ],
+                "has_channel_owner_permissions": [
+                    1366520447616680007
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1363465200409514056,
+                "category": 1363464976441806988
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

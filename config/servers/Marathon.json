@@ -1,0 +1,40 @@
+{
+    "id": 1361770847223677189,
+    "name": "Marathon",
+    "log_channel": 1366515019302441164,
+    "creators": [
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1361771190758281357,
+                "category": 1361771184429203586
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked PC",
+                "channel": 1361771193530712075,
+                "category": 1361771185393635398
+            },
+            "default": {
+                "channel_name": "{}'s Ranked PC",
+                "copy_permissions": true
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole",
+                "channel": 1361771195959349299,
+                "category": 1361771186505384198
+            },
+            "default": {
+                "channel_name": "{}'s Ranked Konsole",
+                "copy_permissions": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 1457882311864487948,
+    "name": "Active Matter",
+    "log_channel": 1464490660106080459,
+    "creators": [
+        {
+            "general": {
+                "name": "➕  Kanal erstellen",
+                "channel": 1464490650211844207,
+                "category": 1464490433139703915
+            },
+            "default": {
+                "channel_name": "{}'s Channel",
+                "channel_size": 3,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1464490355297619991
+                ],
+                "has_channel_owner_permissions": [
+                    1464490355297619991
+                ]
+            }
+        }
+    ]
+}

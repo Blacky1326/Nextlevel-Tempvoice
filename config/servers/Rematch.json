@@ -1,0 +1,87 @@
+{
+    "id": 1361756456977956974,
+    "name": "Rematch",
+    "log_channel": 1366502136149446738,
+    "creators": [
+        {
+            "general": {
+                "name": "Unranked",
+                "channel": 1362773533238886420,
+                "category": 1361757883636781086
+            },
+            "default": {
+                "channel_name": "{}'s Unranked",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1378918636257022002
+                ],
+                "has_channel_owner_permissions": [
+                    1378918636257022002
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked PC",
+                "channel": 1363116034608988161,
+                "category": 1361757884999799115
+            },
+            "default": {
+                "channel_name": "{}'s Ranked PC",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1378918636257022002
+                ],
+                "has_channel_owner_permissions": [
+                    1378918636257022002
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Ranked Konsole",
+                "channel": 1363116447639015438,
+                "category": 1361757886715269260
+            },
+            "default": {
+                "channel_name": "{}'s Ranked Konsole",
+                "channel_size": 5,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1378918636257022002
+                ],
+                "has_channel_owner_permissions": [
+                    1378918636257022002
+                ]
+            }
+        },
+        {
+            "general": {
+                "name": "Turnier",
+                "channel": 1378068220233126028,
+                "category": 1378068324818227400
+            },
+            "default": {
+                "channel_name": "{}'s Turnier Kanal",
+                "channel_size": 3,
+                "copy_permissions": true
+            },
+            "role": {
+                "cannot_be_kicked": [
+                    1378918636257022002
+                ],
+                "has_channel_owner_permissions": [
+                    1378918636257022002
+                ]
+            }
+        }
+    ]
+}
